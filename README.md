@@ -23,10 +23,6 @@
 
 ## 参加者
 
-<!-- 以下に参加者のGithubアカウントを追加してください -->
-<!-- リスト形式でお願いします -->
-<!-- Link が貼ってあると美しい -->
-
 ### Group 1
 
 - [lune-sta](https://github.com/lune-sta/lune-sta-sezemi-2014-readable-code-2) -> [dtan4](https://github.com/lune-sta/dtan4-sezemi-2014-readable-code-2)

@@ -26,3 +26,4 @@
 <!-- リスト形式でお願いします -->
 <!-- Link が貼ってあると美しい -->
 
+- [tmakiws](https://github.com/tmakiws/tmakiws-sezemi-2014-readable-code-2/tree/master/tmakiws-sezemi-2014-readable-code-2)

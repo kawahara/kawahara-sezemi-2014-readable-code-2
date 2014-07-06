@@ -12,8 +12,14 @@
 - [Github](https://twitter.com/ooharabucyou)
 - 千葉出身
 - Open Services Platform Department, Rakuten Inc.
-- Java, JavaScript(node.js), Groovy プログラマ
-- 最近は iOS やら Android やらの開発もしてます
+- 日常からやっている言語
+    - Java
+    - JavaScript (node.js)
+    - Groovy
+    - PHP
+    - Ruby
+
+- 最近は iOS やら Android やらのアプリ開発もしてます
 
 ## 参加者
 

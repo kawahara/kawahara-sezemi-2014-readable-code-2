@@ -25,6 +25,8 @@
 
 ### Group 1
 
+[Group Memo](https://github.com/lune-sta/dtan4-sezemi-2014-readable-code-2/blob/master/group-memo.md)
+
 - [lune-sta](https://github.com/lune-sta/lune-sta-sezemi-2014-readable-code-2) -> [dtan4](https://github.com/lune-sta/dtan4-sezemi-2014-readable-code-2)
 - [dtan4](https://github.com/dtan4/dtan4-sezemi-2014-readable-code-2) -> [lune-sta](https://github.com/dtan4/lune-sta-sezemi-2014-readable-code-2)
 

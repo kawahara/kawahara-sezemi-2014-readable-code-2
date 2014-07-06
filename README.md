@@ -29,4 +29,5 @@
 - [tmakiws](https://github.com/tmakiws/tmakiws-sezemi-2014-readable-code-2/tree/master/tmakiws-sezemi-2014-readable-code-2)
 - [lune-sta](https://github.com/lune-sta/lune-sta-sezemi-2014-readable-code-2)
 - [dtan4](https://github.com/dtan4/dtan4-sezemi-2014-readable-code-2)
-- [seataK](seataK/seataK-sezemi-2014-readable-code-2)
+- [seataK](https://github.com/seataK/seataK-sezemi-2014-readable-code-2)
+- [yone449](https://github.com/yone449/yone449-sezemi-2014-readable-code)

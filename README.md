@@ -33,6 +33,8 @@
 
 ### Group 2
 
+[Group Memo](https://github.com/seataK/yone449-sezemi-2014-readable-code/blob/master/group-memo.md)
+
 - [yone449](https://github.com/yone449/yone449-sezemi-2014-readable-code) -> [tmakiws](https://github.com/yone449/tmakiws-sezemi-2014-readable-code-2)
 - [tmakiws](https://github.com/tmakiws/tmakiws-sezemi-2014-readable-code-2/tree/master/tmakiws-sezemi-2014-readable-code-2) -> [seataK](https://github.com/tmakiws/seataK-sezemi-2014-readable-code-2)
 - [seataK](https://github.com/seataK/seataK-sezemi-2014-readable-code-2) -> [yone449](https://github.com/seataK/yone449-sezemi-2014-readable-code)

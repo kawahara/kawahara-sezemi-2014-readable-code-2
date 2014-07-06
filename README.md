@@ -27,8 +27,14 @@
 <!-- リスト形式でお願いします -->
 <!-- Link が貼ってあると美しい -->
 
-- [tmakiws](https://github.com/tmakiws/tmakiws-sezemi-2014-readable-code-2/tree/master/tmakiws-sezemi-2014-readable-code-2)
-- [lune-sta](https://github.com/lune-sta/lune-sta-sezemi-2014-readable-code-2)
-- [dtan4](https://github.com/dtan4/dtan4-sezemi-2014-readable-code-2)
-- [seataK](https://github.com/seataK/seataK-sezemi-2014-readable-code-2)
-- [yone449](https://github.com/yone449/yone449-sezemi-2014-readable-code)
+### Group 1
+
+- [lune-sta](https://github.com/lune-sta/lune-sta-sezemi-2014-readable-code-2) -> [dtan4](https://github.com/lune-sta/dtan4-sezemi-2014-readable-code-2)
+- [dtan4](https://github.com/dtan4/dtan4-sezemi-2014-readable-code-2) -> [lune-sta](https://github.com/dtan4/lune-sta-sezemi-2014-readable-code-2)
+
+
+### Group 2
+
+- [yone449](https://github.com/yone449/yone449-sezemi-2014-readable-code) -> [tmakiws](https://github.com/yone449/tmakiws-sezemi-2014-readable-code-2)
+- [tmakiws](https://github.com/tmakiws/tmakiws-sezemi-2014-readable-code-2/tree/master/tmakiws-sezemi-2014-readable-code-2) -> [seataK](https://github.com/tmakiws/seataK-sezemi-2014-readable-code-2)
+- [seataK](https://github.com/seataK/seataK-sezemi-2014-readable-code-2) -> [yone449](https://github.com/seataK/yone449-sezemi-2014-readable-code)

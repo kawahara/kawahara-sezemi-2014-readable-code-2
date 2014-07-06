@@ -18,7 +18,6 @@
     - Groovy
     - PHP
     - Ruby
-
 - 最近は iOS やら Android やらのアプリ開発もしてます
 
 ## 参加者
